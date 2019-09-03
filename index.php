@@ -1,5 +1,2 @@
 <?php
-echo "hello";
-
-echo "Ajay";
-?>
+// Silence is golden.
